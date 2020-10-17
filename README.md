@@ -7,3 +7,7 @@ MARIO CARRANZA CASTILLO
 2019180212
 
 INSTITUTO TECNOLÓGICO DE COSTA RICA
+
+
+NOTA:
+Los tests se encuentran en la carpeta Servidor-Grafo
