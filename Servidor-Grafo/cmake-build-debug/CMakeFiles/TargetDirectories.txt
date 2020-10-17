@@ -1,0 +1,4 @@
+/home/mario/CLionProjects/Grafo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mario/CLionProjects/Grafo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mario/CLionProjects/Grafo/cmake-build-debug/CMakeFiles/executeTests.dir
+/home/mario/CLionProjects/Grafo/cmake-build-debug/CMakeFiles/Grafo.dir

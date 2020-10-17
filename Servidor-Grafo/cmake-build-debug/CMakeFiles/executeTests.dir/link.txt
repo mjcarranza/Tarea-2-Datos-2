@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/executeTests.dir/GrafoServerTest.cpp.o  -o executeTests  /usr/lib/x86_64-linux-gnu/libgtest.a -lpthread 
